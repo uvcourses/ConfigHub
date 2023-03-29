@@ -1,0 +1,3 @@
+auth-demo:
+  authUrl: 'http://facebook.com/auth'
+  loginUrl: 'http://facebook.com/loginUrl'
