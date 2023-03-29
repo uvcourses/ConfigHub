@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ConfigHub.iml" filepath="$PROJECT_DIR$/.idea/ConfigHub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../opensource/maven-clean-plugin/maven-clean-plugin.iml" filepath="$PROJECT_DIR$/../opensource/maven-clean-plugin/maven-clean-plugin.iml" />
     </modules>
   </component>
 </project>
